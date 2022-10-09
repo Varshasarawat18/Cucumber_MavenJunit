@@ -1,0 +1,5 @@
+StepDefination\TestRunner.class
+com\simplilearn\Cucumber_Maven\AppTest.class
+StepDefination\CaculatorStepDefination.class
+StepDefination\HooksClass.class
+StepDefination\LoginStepsDefination.class
